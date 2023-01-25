@@ -1,0 +1,8 @@
+INTSTYLE=ise
+INFILE=C:\Users\mahdi\Desktop\ISE\SPI\SPI_top.ncd
+OUTFILE=C:\Users\mahdi\Desktop\ISE\SPI\SPI_top.bit
+FAMILY=Spartan6
+PART=xc6slx9-2tqg144
+WORKINGDIR=C:\Users\mahdi\Desktop\ISE\SPI
+LICENSE=WebPack
+USER_INFO=__0_0_0
